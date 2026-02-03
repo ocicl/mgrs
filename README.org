@@ -1,9 +1,10 @@
 * mgrs
 
+Military Grid Reference System implementation
 
+|---------+---------------------------------------------|
+| source  | git:https://codeberg.org/glv/mgrs.git       |
+| commit  | 0045546                                     |
+| systems | mgrs                                        |
+|---------+---------------------------------------------|
 
-|---------+---------------------------------------|
-| source  | git:https://codeberg.org/glv/mgrs.git |
-| commit  | c06f268                               |
-| systems | mgrs                                  |
-|---------+---------------------------------------|
